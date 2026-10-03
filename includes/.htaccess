@@ -1,0 +1,2 @@
+# Deny direct browser access to PHP includes and templates
+Require all denied

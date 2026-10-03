@@ -1,0 +1,21 @@
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Editor / IDE Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Environment & Local Overrides (optional if sensitive)
+# config/db.php
+
+# Temporary & Log files
+*.log
+scratch/
+tmp/
+*.tmp
